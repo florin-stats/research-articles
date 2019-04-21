@@ -2,7 +2,7 @@
 
 Reminder: This is NOT a complete list, but it's only to give a rough idea of my areas of interest. There were many other books and articles which I haven't mentioned. (for example articles used for my dissertation thesis). I haven't mentioned course notes. This list will be updated in the future.
 
-
+They are also in chronological order. (last rows = latest)
 
 
 # ARTICLES:
