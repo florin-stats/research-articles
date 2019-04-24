@@ -419,6 +419,7 @@ Robust PCA for Anomaly Detection in Cyber Networks - Randy Paffenroth, Kathleen 
 
 Conditional Likelihood Maximisation: A Unifying Framework for Information Theoretic Feature Selection - Gavin Brown, Adam Pocock, Ming-Jie Zhao, Mikel Lujan
 
+Greedy Function Approximation: A Gradient Boosting Machine - Jerome H. Friedman
 
 
 
