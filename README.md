@@ -423,6 +423,20 @@ Greedy Function Approximation: A Gradient Boosting Machine - Jerome H. Friedman
 
 A REVIEW ON EVALUATION METRICS FOR DATA CLASSIFICATION EVALUATIONS - Hossin M, Sulaiman M.N 
 
+Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models - Quan Wang
+
+bigMap: Big Data Mapping with parallelized t-SNE - Joan Garriga1, Frederic Bartumeus
+
+Forecasting at Scale - Sean J. Taylor, Benjamin Letham
+
+Compendium of Common Probability Distributions - Michael P. McLaughlin
+
+A Mathematical Theory of Communication - C. E. SHANNON
+
+actuar: An R Package for Actuarial Science - Christophe Dutang, Vincent Goulet, Mathieu Pigeon
+
+Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package
+
 
 # BOOKS:
 
@@ -466,3 +480,4 @@ All of Nonparametric Statistics - Larry Wasserman
 
 Deep Learning with R - François Chollet, J.J. Allaire
 
+Dive into Deep Learning - (Release 0.7) Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola
