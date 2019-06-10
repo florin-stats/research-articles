@@ -437,6 +437,7 @@ actuar: An R Package for Actuarial Science - Christophe Dutang, Vincent Goulet, 
 
 Computing and Visualizing Dynamic Time Warping Alignments in R: The dtw Package
 
+The Boosting Approach to Machine Learning: An Overview - Robert E. Schapire
 
 # BOOKS:
 
